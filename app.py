@@ -1,6 +1,3 @@
-
-app.py
-100%
 import streamlit as st
 import tensorflow as tf
 import numpy as np
